@@ -11,10 +11,11 @@ function App() {
     );
 }
 
+
 function FirstComponent() {
     return (
       <div className="FirstComponent">
-        I am creating a todo application using react and springboot
+        I am creating a todo application using React and SpringBoot
       </div>
     );
 }
